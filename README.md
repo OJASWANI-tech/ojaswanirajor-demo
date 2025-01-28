@@ -1,2 +1,4 @@
 # ojaswanirajor-demo
-This is my first Git Repository.Author-ojaswani
+This is my first Git Repository.
+<br>
+Author-ojaswani
